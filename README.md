@@ -9,7 +9,7 @@ A small library that adds commas to numbers.
 `var formattedNum = numFormatter(12345);`
 
 
-  Output should be `12,345`.
+Output should be `12,345`.
 
 ## Tests
 `npm test`
