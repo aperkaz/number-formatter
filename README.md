@@ -5,7 +5,7 @@ A small library that adds commas to numbers.
 </br>Test project for npm package publication.
 
 ## Installation
-`npm install @aperkaz/number-formatter-aperkaz`
+`npm install number-formatter-aperkaz`
 
 ## Usage
 `var numFormatter = require('@aperkaz/number-formatter-aperkaz');` </br>
