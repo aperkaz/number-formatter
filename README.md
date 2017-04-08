@@ -5,9 +5,8 @@ A small library that adds commas to numbers.
 `npm install @aperkaz/number-formatter-aperkaz`
 
 ## Usage
-var numFormatter = require('@aperkaz/number-formatter-aperkaz');
-
-    var formattedNum = numFormatter(12345);
+`var numFormatter = require('@aperkaz/number-formatter-aperkaz');` </br>
+`var formattedNum = numFormatter(12345);`
 
 
   Output should be `12,345`.
