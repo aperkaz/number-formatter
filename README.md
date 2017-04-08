@@ -1,6 +1,8 @@
 # number-formatter-aperkaz
+[![Build Status](https://travis-ci.org/aperkaz/number-formatter.svg?branch=master)](https://travis-ci.org/aperkaz/number-formatter)
 A small library that adds commas to numbers.
 </br>Test project for npm package publication.
+
 ## Installation
 `npm install @aperkaz/number-formatter-aperkaz`
 
