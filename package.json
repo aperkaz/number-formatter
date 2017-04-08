@@ -1,6 +1,6 @@
 {
   "name": "number-formatter-aperkaz",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Npm package test",
   "main": "index.js",
   "scripts": {
