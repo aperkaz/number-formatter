@@ -8,7 +8,7 @@ A small library that adds commas to numbers.
 `npm install number-formatter-aperkaz`
 
 ## Usage
-`var numFormatter = require('@aperkaz/number-formatter-aperkaz');` </br>
+`var numFormatter = require('number-formatter-aperkaz');` </br>
 `var formattedNum = numFormatter(12345);`
 
 
